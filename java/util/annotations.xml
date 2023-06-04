@@ -1,0 +1,7 @@
+<root>
+    <item name='java.util.Map java.util.Map&lt;K,V&gt; of(K, V, K, V, K, V, K, V)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_,_,_,_,_,_,_,_-&gt;new&quot;"/>
+        </annotation>
+    </item>
+</root>
